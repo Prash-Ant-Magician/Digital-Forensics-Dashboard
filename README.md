@@ -35,7 +35,7 @@ An immersive, real-time **Digital Forensics Dashboard** built with **PyQt6 + QML
 ## Getting Started
 
 ```bash
-git clone https://github.com/your-username/digital-forensics-dashboard.git
+git clone https://github.com/Prash-Ant-Magician/Digital-Forensics-Dashboard.git
 cd digital-forensics-dashboard
 pip install -r requirements.txt
 python main.py
